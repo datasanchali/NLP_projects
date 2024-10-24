@@ -40,20 +40,21 @@ Before getting started, install the necessary libraries by running the following
 pip install -r requirements.txt
 ```
 
+```bash
+pip install transformers datasets evaluate accelerate
+```
 **Key Dependencies:**
 - `transformers`
 - `datasets`
+- `evaluate`
+- `accelerate`
 - `torch`
-- `scikit-learn`
 - `numpy`
-- `pandas`
 
 ### Key Hyperparameters:
 - **Batch Size:** 16
-- **Learning Rate:** 5e-5
-- **Epochs:** 3
-
-You can modify these parameters in the `config.yaml` file.
+- **Learning Rate:** 2e-5
+- **Epochs:** 2
 
 ## Results
 
