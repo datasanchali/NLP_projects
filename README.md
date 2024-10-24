@@ -55,12 +55,7 @@ pip install transformers datasets evaluate accelerate
 
 ## Results
 
-Here are the results of the fine-tuned DistilBERT model on the IMDb test set:
-
 - **Accuracy:** XX%
-- **F1 Score:** XX%
-- **Precision:** XX%
-- **Recall:** XX%
 
 ### License
 
