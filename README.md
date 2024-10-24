@@ -18,10 +18,7 @@ DistilBERT is well-suited for tasks like sentiment analysis, where we aim to det
 
 ## Dataset
 
-The dataset used in this project is the [IMDb movie review dataset](https://ai.stanford.edu/~amaas/data/sentiment/). It contains 50,000 reviews categorized as positive or negative. These reviews are split into 25,000 training examples and 25,000 testing examples.
-
-- **Training set:** 25,000 movie reviews (50% positive, 50% negative)
-- **Test set:** 25,000 movie reviews (50% positive, 50% negative)
+The dataset used in this project is the [IMDb movie review dataset](https://ai.stanford.edu/~amaas/data/sentiment/). It contains 100,000 reviews categorized as positive, negative and unlabelled.
 
 ## Model
 
