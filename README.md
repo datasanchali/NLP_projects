@@ -1,4 +1,4 @@
-# Fine-Tuning DistilBERT on IMDb Movie Reviews
+# Sentiment Analysis | IMDb Movie Reviews | Fine-Tuning DistilBERT
 
 This repository contains code for fine-tuning the DistilBERT model on the IMDb dataset to classify movie reviews as either positive or negative. 
 After fine-tuning, the model is used for inference on new movie reviews.
