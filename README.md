@@ -55,7 +55,7 @@ pip install transformers datasets evaluate accelerate
 
 ## Results
 
-- **Accuracy:** XX%
+- **Accuracy:** 97.3%
 
 ### License
 
