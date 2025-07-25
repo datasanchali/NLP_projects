@@ -1,1 +1,1 @@
-## Deep learning projects focussed on Natural Language Processing Techniques
+Deep learning projects focussed on Natural Language Processing Techniques
